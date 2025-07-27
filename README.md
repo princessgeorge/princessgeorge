@@ -10,14 +10,8 @@
 
 - [African Girls in Tech Academy](https://credential.certifyme.online/verify/f434530723770)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Adaezeokafor | LinkedIn"https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" />][linkedin]
-
-[linkedin]:(https://www.linkedin.com/in/adaeze-okafor-b73a88335/)
-
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**princessgeorge/princessgeorge ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
