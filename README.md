@@ -12,7 +12,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Adaezeokafor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adaezeokafor | LinkedIn"https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" />][linkedin]
 
 [linkedin]:(https://www.linkedin.com/in/adaeze-okafor-b73a88335/)
 
